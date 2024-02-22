@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Noticias Real Madrid</title>
+  <link href="https://casti4.github.io/casti4-atom.github.io/"/>
+  <author>
+    <name>Rafael Castillero</name>
+    <email>a23cacara@iesgrancapitan.org</email>
+  </author>
+  <id>https://casti4.github.io/casti4-atom.github.io/</id>
+  <updated>2024-02-21T21:00:00Z</updated>
+  <category term="Real Madrid"/>
+  <rights>© Rafael Castillero</rights>
+
+  <entry>
+    <title>DEP Artur Jorge</title>
+    <id>https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-fallecimiento-de-artur-jorge-22-02-2024</id>
+    <updated>2024-02-22T23:10:00Z</updated>
+    <link href="https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-fallecimiento-de-artur-jorge-22-02-2024"/>
+    <author>
+      <name>a23cacara@iesgrancapitan.org(Rafael Castillero Cañete)</name>
+    </author>
+    <content type="html">https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-fallecimiento-de-artur-jorge-22-02-2024</content>
+    <summary>Comunicado Oficial: fallecimiento de Artur Jorge</summary>
+  </entry>
+  
+  <entry>
+    <title>Historia del Real Madrid</title>
+    <id>https://github.com/Casti4/casti4-atom.github.io/historia-realmadrid.pdf</id>
+    <updated>2024-02-17T12:00:00Z</updated>
+    <link href="https://casti4.github.io/casti4-atom.github.io/historia-realmadrid.pdf"/>
+    <author>
+      <name>a23cacara@iesgrancapitan.org(Rafael Castillero Cañete)</name>
+    </author>
+    <content type="application/pdf" src="https://casti4.github.io/casti4-atom.github.io/historia-realmadrid.pdf"/>
+    <summary>PDF breve historia de este club</summary>
+  </entry>
+  
+
+  <entry>
+    <title>Muchas gracias aficion</title>
+    <id>https://github.com/Casti4/casti4-atom.github.io/cr7.mp4</id>
+    <updated>2024-02-22T23:50:20Z</updated>
+    <link href="https://casti4.github.io/casti4-atom.github.io/cr7.mp4"/>
+    <author>
+      <name>a23cacara@iesgrancapitan.org(Rafael Castillero Cañete)</name>
+    </author>
+    <content type="video/mp4" src="https://casti4.github.io/casti4-atom.github.io/cr7.mp4"/>
+    <summary>Cr7 diciendo SIUUU</summary>
+  </entry>
+  
+</feed>
